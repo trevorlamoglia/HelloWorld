@@ -1,12 +1,10 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is my hello world program. My intent was to learn how to integrate all the pieces of my development environment.
 
-This is my traditional hello world program. My intent was to learn how to integrate all the peices of my developmetn evnironemnr. bigger adn better sogfteare uet to come
+This software is usually the first program that new coders learn. Even those with little or no experience can execute Hello World easily.
 
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
+Hello world, traditionally is used to illustrate how the process of coding works, as well as to ensure that a language or system is operating correctly.
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
@@ -14,16 +12,16 @@ This is my traditional hello world program. My intent was to learn how to integr
 
 # Development Environment
 
-Python 3.9 64-bit
-Visual Studio Code
-Git / GitHub
+- Python 3.9 64-bit
+- Visual Studio Code
+- Git / GitHub
 
-{Describe the tools that you used to develop the software}
+Visual Studio Code, also commonly referred to as VS Code, is a source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git.
 
-{Describe the programming language that you used}
+Python is a programming language with objects, modules, threads, and automatic memory management. Python is a very simple language, and has very straightforward syntax that programmers fall in love with.
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Learn Python](https://www.learnpython.org/en/Hello%2C_World%21)
+* [Python](https://www.python.org/doc/essays/blurb/)
