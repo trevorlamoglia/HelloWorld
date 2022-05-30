@@ -6,8 +6,6 @@ This software is usually the first program that new coders learn. Even those wit
 
 Hello world, traditionally is used to illustrate how the process of coding works, as well as to ensure that a language or system is operating correctly.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
 [Software Demo Video](https://www.youtube.com/watch?v=onQXOIvdsXI)
 
 # Development Environment
